@@ -1,1 +1,2 @@
-# C72-ToastsWily
+# ToastsWily
+Displaying messages using toast
